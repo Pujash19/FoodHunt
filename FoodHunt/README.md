@@ -18,7 +18,7 @@ The page will reload when you make changes.\
 
 ## Screenshots
 
-![Screenshot (1)]()
-![Screenshot (2)]()
-![Screenshot (3)]()
+![Screenshot (1)](https://github.com/Pujash19/FoodHunt/blob/main/FoodHunt/Screenshots/Screenshot%20(165).png)
+![Screenshot (2)](https://github.com/Pujash19/FoodHunt/blob/main/FoodHunt/Screenshots/Screenshot%20(166).png)
+![Screenshot (3)](https://github.com/Pujash19/FoodHunt/blob/main/FoodHunt/Screenshots/Screenshot%20(167).png)
 
