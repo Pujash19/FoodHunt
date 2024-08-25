@@ -1,0 +1,78 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid black;
+}
+.logo{
+    width: 100px;
+    height: 50px;
+    }
+.navItems{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    column-gap: 10px;
+
+}
+.footer{
+    display: flex;
+    border: 1px solid black;
+    justify-content: space-between;
+}
+.card{
+    width: 250px;
+    height: 350px;
+    margin: 10px;
+    border: 1px solid black;
+    padding: 10px;
+}
+.card > img{
+    width: 250px;
+    height:150px;
+}
+.RestaurantCard{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  gap: 30px;
+  padding: 20px;
+}
+.shimmer-card{
+    width: 250px;
+    height: 350px;
+    margin: 10px;
+    border: 1px solid black;
+    background-color: lightgrey;
+}
+.cart{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  gap: 30px;
+  padding: 20px;
+}
+.cardtcard{
+    width: 250px;
+    height: 350px;
+    margin: 10px;
+    border: 1px solid black;
+    padding: 10px;
+}
+.cartcard > img{
+    width: 250px;
+    height:150px;
+}
+.restaurant-summary> img{
+    width: 300px;
+    height:300px;
+    padding: 10px;
+    margin: 5px;
+}
+.menu-item-img{
+    width: 250px;
+    height:150px;
+}
+.restaurant-menu{
+    display: flex;
+    justify-content: space-between;
+}
